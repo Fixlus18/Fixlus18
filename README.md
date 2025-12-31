@@ -1,67 +1,59 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Hi,%20I'm%20[Reza_Saputra]%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
+<h1 align="center">👋 Halo, Saya Mahasiswa IT</h1>
+<h3 align="center">Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Information+Technology+Student;Fullstack+Software+Engineer;Building+Scalable+Applications;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/USERNAME_GITHUB?label=Followers&style=flat" />
 </p>
 
 ---
 
-### 🐍 Contribution Activity
+## 🚀 Tentang Saya
+Saya adalah **Mahasiswa IT** yang tertarik pada pengembangan aplikasi, pemrograman, dan teknologi modern.  
+Aktif mengerjakan **project kuliah**, **praktikum**, serta membangun portofolio melalui GitHub.
+
+- 🎓 Mahasiswa Teknik Informatika / Pendidikan Ilmu Komputer  
+- 💻 Fokus: Web Development & Software Engineering  
+- 🌱 Sedang belajar: Framework modern & best practice  
+- 🎯 Target: Menjadi developer profesional  
+
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Project Unggulan
+- 📘 Sistem Informasi Akademik
+- 🏢 Aplikasi Laporan Fasum
+- 📰 Website Jurnal (OJS)
+- 🧪 Project Praktikum Laravel
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-snake.svg">
-    <img alt="Snake Game" src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-snake.svg" width="100%">
-  </picture>
-</p>
-
----
-
-### 💻 Technical Architecture
-<table border="0" width="100%">
-  <tr border="0">
-    <td width="50%" align="left" style="border: none;">
-      <h4>Primary Stack</h4>
-      <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,go,docker&perline=3" />
-    </td>
-    <td width="50%" align="left" style="border: none;">
-      <h4>Databases & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,linux,aws&perline=3" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Engineering Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=github-light&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=USERNAME_GITHUB" />
 </p>
 
 ---
 
-### 📂 Academic & Projects
-- 🎓 **Major:** IT / Computer Science - [Nama Universitas]
-- 🔭 **Focus:** Scalable Systems & Web Architecture.
-- ⚡ **Current Activity:** Developing [Nama Proyek] & Learning System Design.
-- 🌱 **Goal:** To bridge the gap between complex backend logic and intuitive UI.
+## 📫 Kontak
+- 📧 Email: email@student.ac.id  
+- 🌐 GitHub: https://github.com/USERNAME_GITHUB  
 
 ---
 
-### 🔗 Let's Collaborate
-<p align="left">
-  <a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email@domain.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=polywork&logoColor=white" /></a>
-</p>
-
-<p align="right">
-  <i>"Code is poetry." - Anonymous</i>
-</p>
+⭐ *Terus belajar, terus berkembang, dan jangan takut mencoba teknologi baru.*
