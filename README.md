@@ -2,8 +2,8 @@
 <h3 align="center">Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/USERNAME_GITHUB?label=Followers&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rezadesky&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/rezadesky?label=Followers&style=flat" />
 </p>
 
 ---
@@ -41,18 +41,18 @@ Aktif mengerjakan **project kuliah**, **praktikum**, serta membangun portofolio 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezadesky&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=USERNAME_GITHUB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=rezadesky" />
 </p>
 
 ---
 
 ## 📫 Kontak
-- 📧 Email: email@student.ac.id  
-- 🌐 GitHub: https://github.com/USERNAME_GITHUB  
+- 📧 Email: rezasaputra@ar-raniry.ac.id  
+- 🌐 GitHub: https://github.com/rezadesky
 
 ---
 
